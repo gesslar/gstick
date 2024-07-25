@@ -1,0 +1,20 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Globals",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "System",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "GStick",
+              "script": ""
+       }
+]

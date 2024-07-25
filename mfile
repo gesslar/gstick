@@ -1,0 +1,10 @@
+{
+       "package": "GStick",
+       "title": "Basic UI for StickMUD",
+       "description": "Basic UI for StickMUD",
+       "version": "2.0.0",
+       "author": "gesslar",
+       "icon": "",
+       "dependencies": "",
+       "outputFile": true
+}
